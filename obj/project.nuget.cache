@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fXZuTT2pXJ+6DvanxMr3bATNbz9D/xbSk0HLqGjzp1MdjA3eTQmvtcdT3tTrKLE+mtq2EPN07lBNKaEkRadFAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sindre\\source\\repos\\AutoUploader\\AutoUploader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sindre\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sindre\\.nuget\\packages\\textcopy\\6.1.0\\textcopy.6.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
